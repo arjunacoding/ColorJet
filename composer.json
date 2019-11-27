@@ -1,7 +1,7 @@
 {
     "name": "arjunacoding/colorjet",
     "description": "Classes for manipulating colors",
-    "homepage": "noname.com",
+    "homepage": "http://noname.com",
     "license": "MIT",
     "require": {
         "php": ">=5.3.10"
