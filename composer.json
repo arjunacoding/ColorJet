@@ -9,7 +9,7 @@
     "type": "library",
     "autoload": {
         "psr-0": {
-            "ArjuncaCoding": "src"
+            "ArjunaCoding": "src"
         }
     }
 }
