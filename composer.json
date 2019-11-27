@@ -1,0 +1,15 @@
+{
+    "name": "arjunacoding/colorjet",
+    "description": "Classes for manipulating colors",
+    "homepage": "noname.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.10"
+    },
+    "type": "library",
+    "autoload": {
+        "psr-0": {
+            "ArjuncaCoding": "src"
+        }
+    }
+}
